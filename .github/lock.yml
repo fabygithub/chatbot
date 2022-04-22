@@ -1,6 +1,8 @@
 # Configuration for Lock Threads - https://github.com/dessant/lock-threads
+# bloquea problemas cerrados y solicitudes de extracción después de un período de inactividad.
 
 # Number of days of inactivity before a closed issue or pull request is locked
+# Code Issues 
 daysUntilLock: 300
 
 # Skip issues and pull requests created before a given timestamp. Timestamp must
