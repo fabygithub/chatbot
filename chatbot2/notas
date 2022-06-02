@@ -1,6 +1,42 @@
-https://www.youtube.com/watch?v=KmnpQeXskAI&ab_channel=JuanLuisRestituyo
-5
-7
+
+con todas las posibles respuestas
+def check_all_messages(message):
+
+vamos a crear una variable
+para indicar la probabilidad mayor
+
+highest_prob = {}
+
+vamos a definir la repuesta y la lista de palabras
+y la respuesta simple var ir en falso
+y las palabras requeridas va a ser una lista
+
+def response(bot_response, list of words , simple_response =  false , required_words=[]):
+
+esto no va a ser una variable local
+
+nonlocal highest_prob 
+
+y vamos a decir que la probabilidad en la 
+respuesta del bot
+es igual a la probabilidad del mensaje
+
+highest_prob[bot_response] = message.probability()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
