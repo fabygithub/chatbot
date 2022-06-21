@@ -29,3 +29,5 @@ using ctrl+f
 [nltk_data]   Unzipping corpora\wordnet.zip.
 Tu: 
 
+import logging
+logging.basicConfig(filename='example.log',level=logging.DEBUG)
