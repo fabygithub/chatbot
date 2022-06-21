@@ -6,4 +6,26 @@ pip install gensim
 check version 
 use other version
 pip install chatterbot==1.0.2
+No module named 'pytz'
+pip install pytz
+time.clock is deprecated
+
+C:\Users\USUARIO\AppData\Local\Programs\Python\Python310\lib\site-packages\sqlalchemy\util\compat.py
+Then look for sqlalchemy/util/compat.py file and open it. And search time.clock using ctrl+f and replace it with time.time
+using ctrl+f
+
+
+[nltk_data] Downloading package averaged_perceptron_tagger to
+[nltk_data]     C:\Users\USUARIO\AppData\Roaming\nltk_data...
+[nltk_data]   Unzipping taggers\averaged_perceptron_tagger.zip.
+[nltk_data] Downloading package punkt to
+[nltk_data]     C:\Users\USUARIO\AppData\Roaming\nltk_data...
+[nltk_data]   Unzipping tokenizers\punkt.zip.
+[nltk_data] Downloading package stopwords to
+[nltk_data]     C:\Users\USUARIO\AppData\Roaming\nltk_data...
+[nltk_data]   Unzipping corpora\stopwords.zip.
+[nltk_data] Downloading package wordnet to
+[nltk_data]     C:\Users\USUARIO\AppData\Roaming\nltk_data...
+[nltk_data]   Unzipping corpora\wordnet.zip.
+Tu: 
 
