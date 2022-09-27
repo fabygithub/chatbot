@@ -1,3 +1,29 @@
 https://www.youtube.com/watch?v=QWLEMNxNJKg&ab_channel=GoogleCloudTech
 
 5
+
+dialog flow
+create new agent
+nombreagente : yolanda restaurante
+idioma : español
+
+new intent : reservar mesa
+phares : (como los usuarios piden reservar una mesa)
+
+quiero hacer una reserva
+queria una mesa para hoy
+
+para hoy = sys.date
+
+10
+
+
+
+
+
+
+
+
+
+
+
