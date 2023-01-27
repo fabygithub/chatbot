@@ -1,0 +1,31 @@
+27-01-2023
+Crea tu ChatBot con Python y OpenAI GTP3 
+https://www.youtube.com/watch?v=gH4SdAQ9VRE&ab_channel=AgustinNavarroGaldon
+OpenAI
+Api keys
+examples 
+chat
+
+terminal
+cd ruta que elijamos
+python3 -m venv ./envs/chat
+
+https://learnpython.com/blog/how-to-use-virtualenv-python/
+pip install virtualenv
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
