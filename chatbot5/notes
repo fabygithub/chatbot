@@ -12,6 +12,7 @@ python3 -m venv ./envs/chat
 
 https://learnpython.com/blog/how-to-use-virtualenv-python/
 pip install virtualenv
+crear un entorno virtual python
 
 
 
