@@ -13,13 +13,32 @@ terminal
 crear una carpeta
 cd la ruta de la carpeta
 crear un entorno virtual
+python --version
+3.7.7
+pip install virtualenv
+virtualenv env
+
+# activar el entorno
+source env/Scripts/activate
+cd scripts 
+activate
+
+pip install openai
+pip install --upgrade pip
+python.exe -m pip install --upgrade pip
+
+
+options:
+deactivate
+
+# crear el entorno en esas carpetas
 python3 -m venv ./envs/chat
+
 open . 
 nos permite abrir una carpeta
 
 
 https://learnpython.com/blog/how-to-use-virtualenv-python/
-pip install virtualenv
 crear un entorno virtual python
 
 
