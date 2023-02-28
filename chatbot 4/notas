@@ -17,6 +17,27 @@ para hoy = sys.date
 
 10
 
+dialog flow
+frase
+definir las entidades
+ir a entities
+
+nombre : restaurante
+los valores posibles
+
+restaurante 1
+restaurante 2
+
+una lista con 2 valores
+guardar la entidad volver
+a la parte intent
+
+intent
+nombre : ReservaMesa
+
+11
+
+
 
 
 
